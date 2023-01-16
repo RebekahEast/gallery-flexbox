@@ -52,11 +52,11 @@ function setOldImageMaineAnjou()
 
 
 // NGUNI
-function setNewImageMaineAnjou() 
+function setNewImageNguni() 
 { 
-    document.getElementById("img5").src = "pictures/highland-cow-fact.png"
+    document.getElementById("img6").src = "pictures/highland-cow-fact.png"
 }
-function setOldImageMaineAnjou() 
+function setOldImageNguni() 
 { 
-    document.getElementById("img5").src = "pictures/maine-anjou-cow.jpeg"
+    document.getElementById("img6").src = "pictures/nguni-cow.jpg"
 }
