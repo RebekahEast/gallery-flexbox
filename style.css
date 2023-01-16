@@ -40,5 +40,5 @@ body {
 }
 
 .gallery img:hover{
-    border-color: black;
+    border: 4px #803232 solid;
 }

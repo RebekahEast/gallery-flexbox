@@ -65,9 +65,19 @@ function setOldImageNguni()
 // TEXAS LONGHORN
 function setNewImageTexasLonghorn() 
 { 
-    document.getElementById("img7").src = "pictures/Nguni-cow-fact.png"
+    document.getElementById("img7").src = "pictures/texas-longhorn-fact.png"
 }
 function setOldImageTexasLonghorn() 
 { 
     document.getElementById("img7").src = "pictures/Texas-longhorn.jpeg"
+}
+
+// NELORE
+function setNewImageNelore() 
+{ 
+    document.getElementById("img8").src = "pictures/texas-longhorn-fact.png"
+}
+function setOldImageNelore() 
+{ 
+    document.getElementById("img8").src = "pictures/nelore-cow.jpeg"
 }
