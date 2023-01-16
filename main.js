@@ -1,7 +1,7 @@
 // ANGUS COW
 function setNewImageAngus () 
 { 
-    document.getElementById("img1").src = "pictures/angus-info.png"
+    document.getElementById("img1").src = "pictures/Angus-info.png"
 }
 function setOldImageAngus () 
 { 
@@ -11,7 +11,7 @@ function setOldImageAngus ()
 // ENGLISH LONGHORN
 function setNewImageEnglishLonghorn () 
 { 
-    document.getElementById("img2").src = "pictures/nguni-cow.jpg"
+    document.getElementById("img2").src = "pictures/english-longhorn-info.png"
 }
 function setOldImageEnglishLonghorn ()
 { 
