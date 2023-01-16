@@ -75,7 +75,7 @@ function setOldImageTexasLonghorn()
 // NELORE
 function setNewImageNelore() 
 { 
-    document.getElementById("img8").src = "pictures/texas-longhorn-fact.png"
+    document.getElementById("img8").src = "pictures/nelore-fact.png"
 }
 function setOldImageNelore() 
 { 

@@ -41,4 +41,6 @@ body {
 
 .gallery img:hover{
     border: 4px #803232 solid;
+    object-fit: contain;
+    background-color: #222222;
 }
