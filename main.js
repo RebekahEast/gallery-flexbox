@@ -43,7 +43,7 @@ function setOldImageHighland()
 // MAINE ANJOU
 function setNewImageMaineAnjou() 
 { 
-    document.getElementById("img5").src = "pictures/highland-cow-fact.png"
+    document.getElementById("img5").src = "pictures/maine-anjou-info.png"
 }
 function setOldImageMaineAnjou() 
 { 
