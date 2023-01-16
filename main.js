@@ -54,9 +54,20 @@ function setOldImageMaineAnjou()
 // NGUNI
 function setNewImageNguni() 
 { 
-    document.getElementById("img6").src = "pictures/highland-cow-fact.png"
+    document.getElementById("img6").src = "pictures/Nguni-cow-fact.png"
 }
 function setOldImageNguni() 
 { 
     document.getElementById("img6").src = "pictures/nguni-cow.jpg"
+}
+
+
+// TEXAS LONGHORN
+function setNewImageTexasLonghorn() 
+{ 
+    document.getElementById("img7").src = "pictures/Nguni-cow-fact.png"
+}
+function setOldImageTexasLonghorn() 
+{ 
+    document.getElementById("img7").src = "pictures/Texas-longhorn.jpeg"
 }
