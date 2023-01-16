@@ -2,9 +2,39 @@
     box-sizing: border-box;
 }
 
+.gallery img {
+    width: 100%;
+    max-width: 450px;
+    height:300px;
+    object-fit: cover;
+    border-radius: 10%;
+    border: 2px solid palevioletred;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+.head {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: palevioletred;
+    color: brown;
+    border-bottom: 2px black dashed;
+    border-top: 2px black dashed;
+}
+
 .gallery {
-    max-width: 30px;
-    max-height: 30px;
-    height: 30px;
-    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 1px;
+    max-width: 1900px;
+    margin: 0 auto;
+    gap: 16px;
 }
