@@ -21,7 +21,7 @@ function setOldImageEnglishLonghorn ()
 // GUERNSEY
 function setNewImageGuernsey() 
 { 
-    document.getElementById("img3").src = "Guernsey-info.png"
+    document.getElementById("img3").src = "pictures/Guernsey-info.png"
 }
 function setOldImageGuernsey() 
 { 
@@ -32,7 +32,7 @@ function setOldImageGuernsey()
 // HIGHLAND COW
 function setNewImageHighland() 
 { 
-    document.getElementById("img4").src = "highland-cow-fact.png"
+    document.getElementById("img4").src = "pictures/highland-cow-fact.png"
 }
 function setOldImageHighland() 
 { 
@@ -40,12 +40,23 @@ function setOldImageHighland()
 }
 
 
-// HIGHLAND COW
-function setNewImageHighland() 
+// MAINE ANJOU
+function setNewImageMaineAnjou() 
 { 
-    document.getElementById("img4").src = "highland-cow-fact.png"
+    document.getElementById("img5").src = "pictures/highland-cow-fact.png"
 }
-function setOldImageHighland() 
+function setOldImageMaineAnjou() 
 { 
-    document.getElementById("img4").src = "pictures/highland-cow.jpeg"
+    document.getElementById("img5").src = "pictures/maine-anjou-cow.jpeg"
+}
+
+
+// NGUNI
+function setNewImageMaineAnjou() 
+{ 
+    document.getElementById("img5").src = "pictures/highland-cow-fact.png"
+}
+function setOldImageMaineAnjou() 
+{ 
+    document.getElementById("img5").src = "pictures/maine-anjou-cow.jpeg"
 }
