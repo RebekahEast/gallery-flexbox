@@ -33,8 +33,12 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 20px 1px;
+    padding: 20px 10px;
     max-width: 1900px;
     margin: 0 auto;
     gap: 16px;
+}
+
+.gallery img:hover{
+    border-color: black;
 }
