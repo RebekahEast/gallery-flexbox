@@ -32,7 +32,18 @@ function setOldImageGuernsey()
 // HIGHLAND COW
 function setNewImageHighland() 
 { 
-    document.getElementById("img4").src = "Guernsey-info.png"
+    document.getElementById("img4").src = "highland-cow-fact.png"
+}
+function setOldImageHighland() 
+{ 
+    document.getElementById("img4").src = "pictures/highland-cow.jpeg"
+}
+
+
+// HIGHLAND COW
+function setNewImageHighland() 
+{ 
+    document.getElementById("img4").src = "highland-cow-fact.png"
 }
 function setOldImageHighland() 
 { 
