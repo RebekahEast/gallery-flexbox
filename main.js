@@ -21,9 +21,20 @@ function setOldImageEnglishLonghorn ()
 // GUERNSEY
 function setNewImageGuernsey() 
 { 
-    document.getElementById("img3").src = "pictures/nguni-cow.jpg"
+    document.getElementById("img3").src = "Guernsey-info.png"
 }
 function setOldImageGuernsey() 
 { 
     document.getElementById("img3").src = "pictures/Guernsey-cow.jpeg"
+}
+
+
+// HIGHLAND COW
+function setNewImageHighland() 
+{ 
+    document.getElementById("img4").src = "Guernsey-info.png"
+}
+function setOldImageHighland() 
+{ 
+    document.getElementById("img4").src = "pictures/highland-cow.jpeg"
 }
