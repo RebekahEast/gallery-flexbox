@@ -43,7 +43,7 @@ function setOldImageHighland()
 // MAINE ANJOU
 function setNewImageMaineAnjou() 
 { 
-    document.getElementById("img5").src = "pictures/Maine-anjou-info.png"
+    document.getElementById("img5").src = "pictures/MJI.png"
 }
 function setOldImageMaineAnjou() 
 { 
