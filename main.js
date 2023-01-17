@@ -52,12 +52,10 @@ function setOldImageMaineAnjou()
 
 
 // NGUNI
-function setNewImageNguni() 
-{ 
+function setNewImageNguni() { 
     document.getElementById("img6").src = "pictures/Nguni-cow-fact.png"
 }
-function setOldImageNguni() 
-{ 
+function setOldImageNguni() { 
     document.getElementById("img6").src = "pictures/nguni-cow.jpg"
 }
 
