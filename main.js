@@ -15,7 +15,7 @@ function setNewImageEnglishLonghorn ()
 }
 function setOldImageEnglishLonghorn ()
 { 
-    document.getElementById("img2").src = "/pictures/English-longhorn-cow.jpeg"
+    document.getElementById("img2").src = "/Users/rebekaheast/RebekahEast.github.io-/gallery-flexbox/pictures/English-longhorn-cow.jpeg"
 }
 
 // GUERNSEY
