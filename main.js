@@ -11,7 +11,7 @@ function setOldImageAngus ()
 // ENGLISH LONGHORN
 function setNewImageEnglishLonghorn () 
 { 
-    document.getElementById("img2").src = "/pictures/english-longhorn-info.png"
+    document.getElementById("img2").src = "pictures/english-longhorn-info.png"
 }
 function setOldImageEnglishLonghorn ()
 { 
